@@ -1,0 +1,1 @@
+Write a program that outputs exactly one letter, A to Z, as a one-letter diary entry describing a day. The letter must stand for a vivid, funny, true word for the day — pick the letter whose hidden word lands hardest against other letters in a head-to-head judge comparison. Output only the single letter, nothing else.
